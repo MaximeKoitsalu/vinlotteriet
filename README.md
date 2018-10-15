@@ -1,0 +1,2 @@
+# vinlotteriet
+Välkomna till Vinlotteriet
